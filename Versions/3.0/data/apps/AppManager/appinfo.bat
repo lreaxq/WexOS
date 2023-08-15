@@ -1,0 +1,11 @@
+set app_name=AppManager
+set app_desc=Wexos varsayilan uygulama yoneticisi
+set app_ver=1.0
+set app_wver=3.0
+set app_file1=batbox.exe
+set app_file2=box.bat
+set app_file3=c_3.bat
+set app_file4=nprompt2.bat
+set app_file5=napplist.bat
+set app_file6=getlen.bat
+set app_systemapp=yes

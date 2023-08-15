@@ -1,0 +1,11 @@
+set app_name=Links
+set app_desc=Wexos varsayilan web tarayici programi
+set app_ver=1.0
+set app_wver=3.0
+set app_file1=cygz.dll
+set app_file2=cygbz2-1.dll
+set app_file3=cygcrypto-1.0.0.dll
+set app_file4=cyggcc_s-1.dll
+set app_file5=cyglzma-5.dll
+set app_file6=cygssl-1.0.0.dll
+set app_file7=cygwin1.dll
